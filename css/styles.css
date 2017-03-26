@@ -1,0 +1,16 @@
+#Food{
+	overflow: hidden;
+	margin-left: 30px;
+}
+
+#Food div{
+	width: auto;
+	padding: 2px 5px;
+	letter-spacing: 1px;
+}
+
+#col{
+	text-align: left;
+	vertical-align: top;
+	font-family: "Times New Roman", Times, serif;
+}
